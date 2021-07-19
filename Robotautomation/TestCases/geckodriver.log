@@ -1,0 +1,134 @@
+1619818073477	geckodriver	INFO	Listening on 127.0.0.1:50683
+1619818075571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofilecp2bTQ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619818080526	Marionette	INFO	Listening on port 50690
+1619818080946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619818095214	Marionette	INFO	Stopped listening on port 50690
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619818136557	geckodriver	INFO	Listening on 127.0.0.1:50820
+1619818138620	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofileRjNxeE"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619818142281	Marionette	INFO	Listening on port 50827
+1619818142318	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619818143782	Marionette	INFO	Stopped listening on port 50827
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619842879545	geckodriver	INFO	Listening on 127.0.0.1:55714
+1619842881587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofileefk9WG"
+1619842905928	geckodriver	INFO	Listening on 127.0.0.1:55825
+1619842907971	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofileetVfEI"
+1619842908430	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842911001	Marionette	INFO	Listening on port 55832
+1619842911173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1619849871401	Marionette	INFO	Stopped listening on port 55832
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofilewk3GsU"
+1619842953453	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619842956509	Marionette	INFO	Listening on port 55956
+1619842956651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1619849873235	Marionette	INFO	Stopped listening on port 55956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofilebd0roB"
+1619843032440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619843035220	Marionette	INFO	Listening on port 56089
+1619843035683	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1619849874791	Marionette	INFO	Stopped listening on port 56089
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619851287019	geckodriver	INFO	Listening on 127.0.0.1:56022
+1619851289070	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofilejkEOv3"
+1619851289819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619851293601	Marionette	INFO	Listening on port 56029
+1619851293917	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619851300562	Marionette	INFO	Stopped listening on port 56029
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Roshan\AppData\Local\Temp\rust_mozprofilejkEOv3\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1619851343606	geckodriver	INFO	Listening on 127.0.0.1:56096
+1619851345630	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofileVa6LVq"
+1619851346297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1619851350403	Marionette	INFO	Listening on port 56103
+1619851350502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619851364100	Marionette	INFO	Stopped listening on port 56103
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626338794129	geckodriver	INFO	Listening on 127.0.0.1:51071
+1626338796166	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofileESH3tI"
+1626338797629	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626338803762	Marionette	INFO	Listening on port 51079
+1626338804151	Marionette	WARN	TLS certificate errors will be ignored for this session
+1626338903245	Marionette	INFO	Stopped listening on port 51079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1626340473106	geckodriver	INFO	Listening on 127.0.0.1:59603
+1626340475154	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Roshan\\AppData\\Local\\Temp\\rust_mozprofiledPUQfe"
+1626340475876	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1626340480228	Marionette	INFO	Listening on port 59611
+1626340480479	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://ajax.googleapis.com/ajax/libs/angularjs/1.4.8/angular.min.js, line 6: Error: [$injector:modulerr] http://errors.angularjs.org/1.4.8/$injector/modulerr?p0=Registerform&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F1.4.8%2F%24injector%2Fmodulerr%3Fp0%3Dui.grid%26p1%3D%255B%2524injector%253Anomod%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F1.4.8%252F%2524injector%252Fnomod%253Fp0%253Dui.grid%250AG%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A6%253A416%250Ade%252F%253C%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A24%253A186%250Ab%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A251%250Ade%252F%253C%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A23%253A494%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A117%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A333%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A489%250Ag%252F%253C%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A38%253A134%250An%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A7%253A333%250Ag%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A37%253A489%250Aeb%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A41%253A249%250Ac%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A463%250Ayc%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A20%253A274%250AZd%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A19%253A83%250A%2540http%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fangularjs%252F1.4.8%252Fangular.min.js%253A294%253A194%250Ai%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A27451%250AfireWith%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A28215%250Aready%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30008%250AK%2540https%253A%252F%252Fajax.googleapis.com%252Fajax%252Flibs%252Fjquery%252F1.12.0%252Fjquery.min.js%253A2%253A30370%250A%0AG%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A6%3A416%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A391%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A333%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A489%0Ag%2F%3C%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A38%3A134%0An%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A7%3A333%0Ag%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A37%3A489%0Aeb%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A41%3A249%0Ac%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A463%0Ayc%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A20%3A274%0AZd%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A19%3A83%0A%40http%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fangularjs%2F1.4.8%2Fangular.min.js%3A294%3A194%0Ai%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A27451%0AfireWith%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A28215%0Aready%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30008%0AK%40https%3A%2F%2Fajax.googleapis.com%2Fajax%2Flibs%2Fjquery%2F1.12.0%2Fjquery.min.js%3A2%3A30370%0A
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Roshan\AppData\Local\Temp\rust_mozprofiledPUQfe\protections.sqlite
+1626341289909	Marionette	INFO	Stopped listening on port 59611
+INFO	Listening on port 62007
+1626340750583	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://demo.automationtesting.in/angcontroller.js, line 856: TypeError: scope.menucontainer is undefined
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Roshan\AppData\Local\Temp\rust_mozprofileJOMdGy\protections.sqlite
+1626341292046	Marionette	INFO	Stopped listening on port 62007
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
